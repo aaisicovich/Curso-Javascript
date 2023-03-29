@@ -27,6 +27,7 @@ function sacarEntrada(artista) {
                     console.log(persona + " ya tiene su entrada");
                 }
                 entradasEd = entradasEd - cantEntradas;
+                console.log("Quedan " + entradasEd + " para Ed Sheeran")
             } else {
                 alert("No hay entradas suficientes. Hay disponibles " + entradasEd + " entradas")
             }
@@ -42,6 +43,7 @@ function sacarEntrada(artista) {
                     console.log(persona + " ya tiene su entrada");
                 }
                 entradasMet = entradasMet - cantEntradas;
+                console.log("Quedan " + entradasMet + " para Metallica")
             } else {
                 alert("No hay entradas suficientes. Hay disponibles " + entradasMet + " entradas")
             }
