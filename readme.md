@@ -24,6 +24,13 @@ PreEntrega 2:
 
 El funcionamiento de esta preentrega acumulativo con la anterior , presenta la redefinicion de los eventos como objetos y las personas que se le asignaron entradas como un array el cual es ordenado de menor a mayor, usando funciones de orden superior.
 
+PreEntrega 3:
+-Se utilizo el .js que mostro el profesor de manejo de errores
+-DOM
+-Json y sessionstorage
+
+Se modifico la funcionalidad de sacar entradas, dado que se dejo de usar prompts y Alerts, paso a ser un input + button para cada evento
+
 ## Used By
 
 Este proyecto presenta una herramienta por la cual el usuario podra elegir el evento para el cual desea adquirir tickets y atraves del mismo poder comprarlos.
