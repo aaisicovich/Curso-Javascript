@@ -1,0 +1,22 @@
+{
+    "eventos": [
+        {
+            "nombre": "Ed Sheeran",
+            "entradas": 47,
+            "imagen": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+            "fecha": "11 de Noviembre del 2023"
+        },
+        {
+            "nombre": "Metallica",
+            "entradas": 44,
+            "imagen": "https://images.alphacoders.com/292/292333.jpg",
+            "fecha": "22 de Febrero del 2024"
+        },
+        {
+            "nombre": "Imagine Dragons",
+            "entradas": 74,
+            "imagen": "https://rare-gallery.com/uploads/posts/4572445-imagine-dragons.png",
+            "fecha": "15 de Enero del 2024"
+        }
+    ]
+}
